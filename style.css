@@ -1,0 +1,12 @@
+#fundo{
+    background: rgb(159,78,251);
+    background: linear-gradient(187deg, rgba(159,78,251,1) 46%, rgba(98,104,253,1) 63%, rgba(71,116,254,1) 75%, rgba(47,126,254,1) 81%, rgba(33,151,254,1) 86%, rgba(0,212,255,1) 100%);
+    width: 100vw; height: 100vh;
+}
+#redes{
+    margin:20% ;
+}
+#redes a{
+    text-decoration: none;
+    color: black;
+}
