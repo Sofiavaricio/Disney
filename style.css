@@ -10,3 +10,11 @@
     text-decoration: none;
     color: black;
 }
+
+.accordion-body{
+    height: 300px;
+}
+
+.accordion-body img{
+    margin-right: 8px;
+}
